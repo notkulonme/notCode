@@ -1,0 +1,15 @@
+E:\c#\notCode2\bin\Debug\net6.0\notCode2.exe
+E:\c#\notCode2\bin\Debug\net6.0\notCode2.deps.json
+E:\c#\notCode2\bin\Debug\net6.0\notCode2.runtimeconfig.json
+E:\c#\notCode2\bin\Debug\net6.0\notCode2.dll
+E:\c#\notCode2\bin\Debug\net6.0\notCode2.pdb
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.csproj.AssemblyReference.cache
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.AssemblyInfoInputs.cache
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.AssemblyInfo.cs
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.csproj.CoreCompileInputs.cache
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.dll
+E:\c#\notCode2\obj\Debug\net6.0\refint\notCode2.dll
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.pdb
+E:\c#\notCode2\obj\Debug\net6.0\notCode2.genruntimeconfig.cache
+E:\c#\notCode2\obj\Debug\net6.0\ref\notCode2.dll
