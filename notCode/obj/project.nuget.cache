@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tI6bHQsRie1NmCaUMwCFH+2Q9bQnLruhygmcRnWM1nOYay+QFJLhsEG/bRfCrFMjfyPAipRs3ucAK0FnUwpdKw==",
+  "success": true,
+  "projectFilePath": "E:\\c#\\notCode\\notCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
